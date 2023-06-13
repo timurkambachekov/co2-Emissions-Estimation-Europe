@@ -1,0 +1,11 @@
+preprocessing/data/
+
+preprocessing/data2/
+
+model_selection/*.pkl
+
+model_selection/random_forest_scores.csv
+
+co2prediction_application/venv/
+
+co2prediction_application/__pycache__
